@@ -17,12 +17,12 @@ Together와 Memory를 합친 뜻으로 함께한 여행을 사진과 글로 남�
 ## 🛠️ 개발 기간
 * 개발 기간 :  2025.03.25 ~
 
-[//]: # (## ⚙️ 기술 스택)
+<!-- ## ⚙️ 기술 스택
 
-[//]: # (* 프론트엔드: React)
+* 프론트엔드: React
 
-[//]: # (* 백엔드: Java, Spring, Gradle, SpringBoot)
+* 백엔드: Java, Spring, Gradle, SpringBoot
 
-[//]: # (* 데이터베이스: Oracle)
+* 데이터베이스: Oracle
 
-[//]: # (* 배포: AWS,EC2)
+* 배포: AWS,EC2 -->
