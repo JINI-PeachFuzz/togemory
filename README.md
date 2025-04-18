@@ -23,6 +23,6 @@ Together와 Memory를 합친 뜻으로 함께한 여행을 사진과 글로 남�
 
 * 백엔드: Java, Spring, Gradle, SpringBoot
 
-* 데이터베이스: Oracle
+* 데이터베이스: OracleDB
 
-* 배포: AWS,EC2 -->
+* 배포: AWS
