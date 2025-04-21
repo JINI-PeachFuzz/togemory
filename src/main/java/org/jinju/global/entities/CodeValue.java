@@ -14,10 +14,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class CodeValue {
     @Id
-    @Column(name="_CODE", length=45)
+    @Column(name="CODE", length=45)
     private String code;
 
     @Lob
-    @Column(name="_VALUE")
+    @Column(name="VALUE")
     private String value;
 }

@@ -59,7 +59,7 @@
         </dl>
 
         <dl>
-            <dt th:text="#{닉네임}"></dt>
+            <dt th:text="#{별명}"></dt>
             <dd>
                 <input type="text" name="nickName" th:field="*{nickName}">
                 <div class="error" th:each="err : ${#fields.errors('nickName')}" th:text="${err}"></div>
